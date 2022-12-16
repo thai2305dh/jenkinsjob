@@ -1,0 +1,10 @@
+[
+    {
+        "ParameterKey":"PrivateSubnet1CIDR",
+        "ParameterValue":"10.192.20.0/24"
+    },
+    {
+        "ParameterKey":"PublicSubnet2CIDR",
+        "ParameterValue":"10.192.11.0/24"       
+    }
+]
